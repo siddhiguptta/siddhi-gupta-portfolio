@@ -9,7 +9,7 @@ const ranks = [
     { min: 0, label: "LVL 1 • FINTECH NOVICE" },
     { min: 200, label: "LVL 2 • VENTURE ANALYST" },
     { min: 450, label: "LVL 3 • STRATEGY ASSOCIATE" },
-    { min: 700, label: "LVL 4 • FOUNDERS OFFICE PRO" },
+    { min: 700, label: "LVL 4 • FOUNDERS OFFICE" },
     { min: 950, label: "LVL 5 • EXECUTIVE LEADER" }
 ];
 
